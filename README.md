@@ -28,3 +28,6 @@ You can also specify an icon file and hide the console window by using the follo
 `pyinstaller --onefile --noconsole --icon=icon.ico --hidden-import=PyQt5 GradeCalculator.py`  
 ![](img1.png) 
 `
+## To-Do
+
+Add Remove Task button from task2 ~
